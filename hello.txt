@@ -1,3 +1,7 @@
 Hello, git!
 julia
+HI!!!
+Julia
+Hello, git cherry-pick!
 
+Hello, squash
